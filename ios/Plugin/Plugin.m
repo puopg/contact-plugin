@@ -1,3 +1,11 @@
+//
+//  Plugin.m
+//  Plugin
+//
+//  Created by Michael Chen on 2/18/21.
+//  Copyright © 2021 Max Lynch. All rights reserved.
+//
+
 #import <Foundation/Foundation.h>
 #import <Capacitor/Capacitor.h>
 
